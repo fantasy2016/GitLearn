@@ -1,1 +1,4 @@
+hello python!
 hello world!
+commit add checkout origin pull push branch merge --no-ff HEAD -hard diff --cached
+
